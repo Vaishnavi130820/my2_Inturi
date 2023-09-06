@@ -25,3 +25,10 @@ Travelling have always been my way to relax myself,top 4 Sports i recommend to p
 |Soccer|10Am to 12Pm   |4hrs       |
 |BasketBall       |5AM to 6AM         |2hrs          |
 
+___
+## My Favorite funny quotes
+1. `"I'm not superstitious, but I am a little stitious."` ---- by  **_Michael Scott_**
+2. `"There is nothing better than a friend, unless it's a friend with chocolate."` ---- by **_Linda Grayson_**
+
+
+
