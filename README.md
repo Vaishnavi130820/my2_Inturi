@@ -30,5 +30,30 @@ ___
 1. `"I'm not superstitious, but I am a little stitious."` ---- by  **_Michael Scott_**
 2. `"There is nothing better than a friend, unless it's a friend with chocolate."` ---- by **_Linda Grayson_**
 
+---
+### Smaple CSS code snippet as of my Sid
+```
+.container {
+  display: flex;
+  ...
+  gap: 10px;
+  gap: 10px 20px; /* row-gap column gap */
+  row-gap: 10px;
+  column-gap: 20px;
+}
+
+.parent {
+  display: flex;
+  height: 300px; /* Or whatever */
+}
+
+.child {
+  width: 100px;  /* Or whatever */
+  height: 100px; /* Or whatever */
+  margin: auto;  /* Magic! */
+}
+```
+[My Css Code snippet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 
