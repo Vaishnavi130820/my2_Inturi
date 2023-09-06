@@ -13,3 +13,6 @@ Foods to Eat:
 * Burger
 * Pizza
 * Biryani
+
+[Click here to know about me](https://github.com/Vaishnavi130820/my2_Inturi/blob/main/MyStats.md)
+
